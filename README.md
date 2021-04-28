@@ -19,7 +19,6 @@ The end product should:
 
  - Be implemented in a language of the applicant's choice
  - NOT rely on any external services like Redis, ZeroMQ or similar technologies
- - Include UML Activity Diagram and UML Sequence Diagram documenting the business logic
  - Include instructions for how to run your code
  - Include Unit tests
  - For bonus points, include a web front-end that displays the messages that the producer(s) and consumer log.
