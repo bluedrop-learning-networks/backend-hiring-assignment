@@ -21,4 +21,4 @@ The end product should:
  - NOT rely on any external services like Redis, ZeroMQ or similar technologies
  - Include instructions for how to run your code
  - Include Unit tests
- - For bonus points, include a web front-end that displays the messages that the producer(s) and consumer log.
+ - Include a simple web front-end (don't worry about styling) that displays the messages that the producer(s) and consumer log.
